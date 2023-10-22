@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋! I'm Muhammed Hisham,   <br>I 'm a Developer , An Ethical Hacker & More over a Tech Enthusiast.</h2>
+<h2 align="left">Hello 👋! I'm Muhammed Hisham,   <br>I 'm a Developer , an Ethical Hacker & more over a Tech Enthusiast.</h2>
 
 ###
 <!--
