@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Hisham A</h1>
-<h3 align="center">A passionate Developer , an Ethical Hacker & more over a Tech Enthusiast.</h3>
+<h3 align="center">A passionate Developer, an Ethical Hacker & more over a Tech Enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderhisham&label=Profile%20views&color=0e75b6&style=flat" alt="coderhisham" /> </p>
 
