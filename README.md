@@ -36,6 +36,5 @@
 <img src="https://raw.githubusercontent.com/coderhisham/coderhisham/output/snake.svg" alt="Snake animation" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderhisham&label=Profile%20views&color=0e75b6&style=flat" alt="coderhisham" /> </p>
 
-
-<figure><embed src="https://wakatime.com/share/@018e82dc-399b-4b20-a496-79b1527d0a44/af430ea2-98bc-48ac-906e-a3e5275f230e.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018e82dc-399b-4b20-a496-79b1527d0a44/9cb37f5b-9982-4579-b78b-3c0c7bf07766.png" /></a>
 
