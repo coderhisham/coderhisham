@@ -35,4 +35,5 @@
 ###
 <img src="https://raw.githubusercontent.com/coderhisham/coderhisham/output/snake.svg" alt="Snake animation" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderhisham&label=Profile%20views&color=0e75b6&style=flat" alt="coderhisham" /> </p>
+[![wakatime](https://wakatime.com/badge/user/018e82dc-399b-4b20-a496-79b1527d0a44.svg)](https://wakatime.com/@018e82dc-399b-4b20-a496-79b1527d0a44)
 
