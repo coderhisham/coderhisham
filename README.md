@@ -8,7 +8,7 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=coderhisham&theme=blue-green" height="150" alt="GitHub Streak" /></a>
 </div>
 
-<h3>Programming Languages &amp; Frameworks &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Others</h3>
+<h3>Programming Languages &amp; Technolgies &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
