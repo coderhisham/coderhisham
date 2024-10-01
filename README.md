@@ -73,6 +73,8 @@
     </table>
 </div>
 
+[![An image of @coderhisham's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coderhisham)](https://holopin.io/@coderhisham)
+
 ###
 
 <div align="center"><img src="https://raw.githubusercontent.com/coderhisham/coderhisham/output/snake.svg" alt="Snake animation" /></div>
