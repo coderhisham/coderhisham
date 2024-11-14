@@ -8,7 +8,7 @@
 </div>
 <hr>
 <div id="image-table" align="center">
-    <table>
+    <table style="">
         <tr>
             <td style="padding:5px">
               <h3 style="margin-top: 0px; paddding-top:0px;">Programming Languages</h3>
@@ -27,21 +27,27 @@
                 <img src="https://cdn.simpleicons.org/rust/ffffff" height="40" alt="rust logo"/>
             </td>
           <td style="padding:5px">
-                <h3>Databases</h3>
+                <h3>Databases & ORMs </h3>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
                 <img src="https://ik.imagekit.io/coderhisham/my-sql?updatedAt=1721630071786" alt="mysql" width="40" height="40"/>
+                <img width="12" />
+                <img src="https://ik.imagekit.io/coderhisham/postgres.png?updatedAt=1731555489660" alt="postgres" width="40" height="40"/>
+                <img width="12" />
+                <img src="https://ik.imagekit.io/coderhisham/prismaHD.png?updatedAt=1731556075450" alt="postgres" width="40" height="40"/>
+                <img width="12" />
+                <img src="https://ik.imagekit.io/coderhisham/drizzle.png?updatedAt=1731556075100" alt="drizzle" width="40" height="40"/>
             </td>
         </tr>
         <tr>
             <td style="padding:5px">
                 <h3>Web Development Technologies</h3>
+                <img src="https://ik.imagekit.io/coderhisham/next-js-icon-seeklogo.svg?updatedAt=1721629179031" alt="express" width="42" height="42"/>
+                <img width="12" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
                 <img width="12" />
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
                 <img width="12" />
                 <img src="https://ik.imagekit.io/coderhisham/express%20Logo?updatedAt=1721628640014" alt="express" width="40" height="40"/>
-                <img width="12" />
-                <img src="https://ik.imagekit.io/coderhisham/next-js-icon-seeklogo.svg?updatedAt=1721629179031" alt="express" width="42" height="42"/>
                 <img width="12" />
                 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
                 <img width="12" />
@@ -73,7 +79,7 @@
     </table>
 </div>
 
-[![An image of @coderhisham's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coderhisham)](https://holopin.io/@coderhisham)
+<!--[![An image of @coderhisham's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coderhisham)](https://holopin.io/@coderhisham)-->
 
 ###
 
