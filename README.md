@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammed Hisham A</h1>
+<!--<h1 align="center">Hi 👋, I'm Muhammed Hisham A</h1>
 <h3 align="center">A passionate Developer, A Linux Geek, an Ethical Hacker & more over a Tech Enthusiast.</h3>
 <br>
 
@@ -76,15 +76,14 @@
                 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
             </td>
         </tr>
-    </table>
-</div>
-
+    </table>-->
+<!--</div>-->
 <!--[![An image of @coderhisham's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coderhisham)](https://holopin.io/@coderhisham)-->
-
+<!--
 ###
 
 <div align="center"><img src="https://raw.githubusercontent.com/coderhisham/coderhisham/output/snake.svg" alt="Snake animation" /></div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=coderhisham&label=Profile%20views&color=0e75b6&style=flat" alt="coderhisham" /> <a href="https://wakatime.com/@018e82dc-399b-4b20-a496-79b1527d0a44">
 <img src="https://wakatime.com/badge/user/018e82dc-399b-4b20-a496-79b1527d0a44.svg" alt="Total time coded since Mar 28 2024" /></a> </p>
 
-</div>
+</div>-->
