@@ -3,8 +3,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderhisham&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true&order=1" alt="stats graph" width="500" height="200"/>
-  <img src="https://streak-stats.demolab.com?user=coderhisham&theme=blue-green&hide_border=true" alt="GitHub Streak" width="500" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=coderhisham&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true&order=1" alt="stats graph" width="400" height="200"/>
+  <img src="https://streak-stats.demolab.com?user=coderhisham&theme=blue-green&hide_border=true" alt="GitHub Streak" width="400" height="200"/>
 </div>
 <br/>
 
