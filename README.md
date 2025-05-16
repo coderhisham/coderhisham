@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Developer, A Linux Geek, an Ethical Hacker & more over a Tech Enthusiast.</h3>
 <br>
 
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=coderhisham&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true&order=1" alt="stats graph" width="400" height="200"/>
   <img src="https://streak-stats.demolab.com?user=coderhisham&theme=blue-green&hide_border=true" alt="GitHub Streak" width="400" height="200"/>
@@ -85,3 +86,10 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=coderhisham&label=Profile%20views&color=0e75b6&style=flat" alt="coderhisham" /> <a href="https://wakatime.com/@018e82dc-399b-4b20-a496-79b1527d0a44">
 <img src="https://wakatime.com/badge/user/018e82dc-399b-4b20-a496-79b1527d0a44.svg" alt="Total time coded since Mar 28 2024" /></a> </p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/coderhisham" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px; width: 150px;">
+  </a>
+</p>
+
