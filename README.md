@@ -45,9 +45,11 @@
         <tr>
             <td style="padding:5px">
                 <h3>Web Development Technologies</h3>
-                <img src="https://ik.imagekit.io/coderhisham/next-js-icon-seeklogo.svg?updatedAt=1721629179031" alt="express" width="42" height="42"/>
+                <img src="https://ik.imagekit.io/coderhisham/next-js-icon-seeklogo.svg?updatedAt=1721629179031" alt="nextjs" width="42" height="42"/>
                 <img width="12" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
+                <img width="12" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" alt="react" />
                 <img width="12" />
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
                 <img width="12" />
